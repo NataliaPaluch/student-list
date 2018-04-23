@@ -1,0 +1,11 @@
+<table class="table table-striped">
+  <tr>
+    <th *ngFor="let col of columns">{{col}}</th>
+  </tr>
+  <tr *ngFor="let item of characters">
+<td>{{item.name}}</td>
+<td>{{item.surname}}</td>
+<td>{{item.psi}}</td>
+<td>{{item.iwa}}</td>
+  </tr>
+</table>
