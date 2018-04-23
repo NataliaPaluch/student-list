@@ -2,21 +2,15 @@ export const CHARACTERS: any[] =
   [
     {
       name: 'Adam ',
-      surname: 'Candy',
-      psi: 4,
-      iwa: 3
+      surname: 'Candy'
     },
     {
-      name: 'Adam ',
-      surname: 'Candy',
-      psi: 44,
-      iwa: 34
+      name: 'Adam2 ',
+      surname: 'Candy'
     },
     {
-      name: 'Adam ',
-      surname: 'Candy',
-      psi: 45,
-      iwa: 35
+      name: 'Adam3 ',
+      surname: 'Candy'
     }
   ];
 

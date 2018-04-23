@@ -11,6 +11,6 @@ export class StudentGeneratorService {
     return CHARACTERS;
   }
   getColumns(): string[] {
-    return ['name', 'surname', 'psi', 'iwa'];
+    return ['name', 'surname', 'psi', 'psi weight', 'iwa', 'iwa weight', 'avg'];
   }
 }
